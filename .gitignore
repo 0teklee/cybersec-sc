@@ -2,3 +2,4 @@
 .cursor
 .DS_Store
 *.temp.*
+**/temp
