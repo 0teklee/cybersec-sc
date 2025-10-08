@@ -1,5 +1,5 @@
 .idea
 .cursor
-.DS_Store
+.DS_STORE
 *.temp.*
 **/temp
